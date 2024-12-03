@@ -39,7 +39,7 @@ permalink: /research/
 
 <br/>
 
-![Screenshot]({{ site.baseurl }}/assets/img/causal5.png){:.lead width="1800" loading="lazy"}
+![Screenshot]({{ site.baseurl }}/assets/img/causal6.png){:.lead width="1800" loading="lazy"}
 
 <div style="text-align: justify">
 
