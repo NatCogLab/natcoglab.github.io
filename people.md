@@ -111,7 +111,7 @@ Alex’s research focuses on the factors that contribute to how people generate 
 
 </div>
 
-## Undergraduate Researchers
+## Undergraduate Researcher
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr><td width="100%" valign="top" style="padding-right: 25px;">
