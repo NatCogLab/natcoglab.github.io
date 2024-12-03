@@ -1,0 +1,89 @@
+---
+layout: page
+title: Lab culture &#8205; &#127752;
+description: >
+  Our vision and values
+hide_description: true
+sitemap: false
+permalink: /values/
+---
+
+# Principles and values
+
+<div style="text-align: justify">
+
+     	As a research lab and as a community, we strive to abide by a set of core principles and values:<br/>
+
+	<br/>&#9830;&nbsp; Our lab will always be a safe, inclusive, & welcoming space for everyone who enters through our doors.<!--, including members, collaborators, participants, and guests.-->
+	<br/>&#9830;&nbsp; Diversity of backgrounds, identities, & perspectives strengthens our ability to tackle research as a team.
+	<br/>&#9830;&nbsp; Respect, support, kindness, & work-life balance are prerequisites of a productive lab environment.
+	<br/>&#9830;&nbsp; We believe in collaboration over competition.
+	<br/>&#9830;&nbsp; We value individually-tailored mentorship highly.
+	<br/>&#9830;&nbsp; We always strive to learn from one another, regardless of our seniority in the lab.
+
+</div>
+
+# Lab manual
+
+<div style="text-align: justify">
+
+     	We invite you to learn more about:<br/>
+
+ 	<br/>&#9830;&nbsp; our lab's mission
+	<br/>&#9830;&nbsp; the expectations and responsibilities of each member of the lab
+	<br/>&#9830;&nbsp; guidelines for conducting reproducible, equitable, and ethical science
+	<br/>&#9830;&nbsp; resources for improving our interactions with one another
+	<br/>&#9830;&nbsp; resources for helping to make our environment more equitable and more inclusive
+	
+	<br/><br/> by browsing our <strong><a href="{{ site.baseurl }}/assets/pdf/NatCogLabHandbook_Jul2024.pdf">Naturalistic Cognition Lab Handbook, Cookbook, and All-Around Good Book</a></strong>, a living document curated by Dr. Iordan, together with all her lab members, past and present.
+
+</div>
+
+# Key resources
+
+<div style="text-align: justify">
+
+	Quick access links to several key resources at the University of Rochester and beyond that guide our lab's efforts to increase equity and inclusion:<br/>
+
+	<br/>&#9830;&nbsp; University of Rochester offices, resources, and policies:
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://www.rochester.edu/diversity/">Office of Equity and Inclusion</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://www.rochester.edu/about/values.html">Code of Values</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://www.rochester.edu/diversity/policies/">Policies Regarding Equity, Diversity, and Inclusion</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://www.rochester.edu/newscenter/university-revises-code-of-conduct-and-whistleblower-policy-395352/">New Whistleblower Policy</a>
+	<br/>
+	<br/>&#9830;&nbsp; LGBTQIA2S+ resources and support at the University of Rochester and in the surrounding community:
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="http://www.rochester.edu/lgbtq/resources.html">For Colleagues Who Identify as LGBTQIA2S+</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="http://www.rochester.edu/lgbtq/ally.html">For Allies</a>
+	<br/>
+	<br/>&#9830;&nbsp; Compiled anti-racism resources for academics:
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://docs.google.com/document/d/1UB28Qsx7zWbeIKy9B9VvGL86UvIYQm07kicNH4aQ9kM/edit#heading=h.8xok0h3t014y">Anti-Racism Working Document for Academics</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://docs.google.com/document/d/1Ic6bil2AvrQmPFUcUyxcw_FumofKkUo3VLsU7qG0cTk/edit">Recruiting, Supporting, and Advancing Underrepresented Minority Scientists</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://ecoevorxiv.org/repository/view/4336/">Ten Simple Rules for Building an Anti-Racist Lab</a>
+	<br/>
+	<br/>&#9830;&nbsp; Combating biases in citation practices:
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://www.sciencedirect.com/science/article/pii/S0896627320303573">Ethical Considerations Regarding Gender Bias in Citation Practices</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://chromewebstore.google.com/detail/citation-transparency/cepnbdbhabaljgecaddglhhcgajphbcf?hl=en&pli=1">Chrome Extension that Adds Probabilistic Gender Info to Google Scholar and PubMed</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://github.com/mb3152/balanced_citer">Probabilistic Estimator of Gender Bias in Citation List</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(20)30164-9">How to Write a Citation Diversity Statement</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="DarkGray">Please note that the tools above are limited in their inclusion of non-binary and/or transgender authors.</font>
+	<br/>
+	<br/>&#9830;&nbsp; Organizations devoted to amplifying the voices of underrepresented scientists:
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://www.sparksociety.org">SPARK Society</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://blackinneuro.com">Black in Neuro</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://anneslist.net">Anne’s List</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://www.winrepo.org">Women in Neuro</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://www.gwis.org">Graduate Women in Science</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://biaswatchneuro.com/about/">BiasWatchNeuro</a>
+	<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9734;&nbsp; <a href="https://www.sfn.org/initiatives/diversity-initiatives/neuroscience-scholars-program">Society for Neuroscience Scholars Program (NSP)</a>
+
+</div>
+
+# Acknowledgements
+
+<div style="text-align: justify">
+
+     	The template and some of the content of our lab handbook were heavily inspired by the excellent lab manuals of <a href="https://www.piazzalab.com/principles">Dr. Elise A. Piazza</a> and <a href="https://github.com/alylab/labmanual">Dr. Mariam Aly</a>.
+	We also took additional inspiration from other open source and/or freely available lab manuals and/or handbooks, including those put forward by <a href="https://bcvl.github.io/onboarding/">Dr. Michelle R. Greene</a><!--, <a href="https://cogtoolslab.github.io/prospective.html">Dr. Judith Fan</a>,--> and <a href="http://www.cns.nyu.edu/malab/lablife.html">Dr. Wei Ji Ma</a>.
+	Our handbook is licensed under a CC BY-NC 4.0 license, and you are welcome to copy, adapt, and/or remix the material however you’d like, provided you cite us.
+
+</div>

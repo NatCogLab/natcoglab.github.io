@@ -1,0 +1,45 @@
+.dl-table {
+  a {
+    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      text-underline-offset: .8rem;
+    }
+    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      padding-bottom: .45rem;
+    }
+  }
+
+  .btn, .gumroad-button  {
+    margin: 1rem 0;
+  }
+}
+
+.entry {
+ clear: both;
+ height: 210px;
+ width: 789px;
+ text-align: justify;
+ margin-bottom: 0px;
+ overflow: hidden;
+}
+
+.entry img {
+ float: left;
+ border: 1px solid #fff;
+ margin: 5px 15px 5px 5px;
+ padding: 0px;
+ border-radius: 6px;
+}
+
+.img-rounded {
+    border-radius: 6px;
+}
+
+.entry a:hover img {
+ border: 1px solid #33f;
+}
+.entry .links {
+ margin: 5px 0px 0px 0px;
+}
+.entry .main {
+ padding-top: 1px;
+}

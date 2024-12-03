@@ -1,0 +1,145 @@
+I"J<hy-drawer
+  id="_drawer"
+  class=""
+  side="left"
+  threshold="10"
+  noscroll
+  
+>
+  <header id="_sidebar" class="sidebar" role="banner">
+    
+
+
+
+
+<div class="sidebar-bg sidebar-overlay" style="background-color:rgb(25,55,71);background-image:url(/assets/img/sidebar_fall.jpg)"></div>
+
+    <div class="sidebar-sticky">
+  <div class="sidebar-about">
+    
+    <a class="sidebar-title" href="/"><h2 class="h1">Naturalistic Cognition Lab</h2></a>
+    
+    
+      <p class="">
+        University of Rochester
+
+      </p>
+    
+  </div>
+
+  <nav class="sidebar-nav heading" role="navigation">
+    <span class="sr-only">Navigation:</span>
+<ul>
+  
+    
+      
+      <li>
+        <a
+          id="_drawer--opened"
+          href="/welcome/"
+          class="sidebar-nav-item "
+          
+        >
+          Lab
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/research/"
+          class="sidebar-nav-item "
+          
+        >
+          Research
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/publications/"
+          class="sidebar-nav-item "
+          
+        >
+          Publications
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/conferences/"
+          class="sidebar-nav-item "
+          
+        >
+          Conference Presentations
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/people/"
+          class="sidebar-nav-item "
+          
+        >
+          Team Members
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/values/"
+          class="sidebar-nav-item "
+          
+        >
+          Vision & Values
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/joinus/"
+          class="sidebar-nav-item "
+          
+        >
+          Join Us
+        </a>
+      </li>
+    
+  
+</ul>
+
+  </nav>
+
+  
+  <div class="sidebar-social">
+    <span class="sr-only">Social:</span>
+<ul>
+  
+    
+    
+
+    
+    
+
+    
+    
+  
+</ul>
+
+  </div>
+</div>
+  </header>
+</hy-drawer>
+<hr class="sr-only" hidden />
+:ET
