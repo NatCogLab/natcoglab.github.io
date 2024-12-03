@@ -11,7 +11,7 @@ permalink: /welcome/
 
 # Welcome! &#8205; &#127752;
 
-![Screenshot]({{ site.baseurl }}/assets/img/group2.png){:.lead width="1920" height="1080" loading="lazy"}
+![Screenshot]({{ site.baseurl }}/assets/img/group6b.png){:.lead width="1920" height="1080" loading="lazy"}
 
 <div style="text-align: justify">
 
