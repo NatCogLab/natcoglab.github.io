@@ -6,6 +6,6 @@
 
      We are a team of cognitive and computational neuroscientists at the University of Rochester whose mission is to explore how people construct, remember, and communicate stories and events.
      <br/><br/>
-     We study stories in their natural habitat, the human experience, usually through behavioral assays and non-invasive recordings of brain activity as our participants watch captivating movies and describe their exciting adventures in the world beyond the lab.
+     We study stories in their natural habitat, the human experience, usually through behavioral assays and noninvasive recordings of brain activity as our participants watch captivating movies and describe their exciting adventures in the world beyond the lab.
 
 </div>
