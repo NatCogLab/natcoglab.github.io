@@ -8,7 +8,7 @@ sitemap: false
 permalink: /research/
 ---
 
-![Screenshot]({{ site.baseurl }}/assets/img/researchFront4.png){:.lead width="1920" height="1080" loading="lazy"}
+![Screenshot]({{ site.baseurl }}/assets/img/researchFront5.png){:.lead width="1920" height="1080" loading="lazy"}
 
 <div style="text-align: justify">
 
@@ -39,7 +39,7 @@ permalink: /research/
 
 <br/>
 
-![Screenshot]({{ site.baseurl }}/assets/img/causal4.png){:.lead width="1800" loading="lazy"}
+![Screenshot]({{ site.baseurl }}/assets/img/causal5.png){:.lead width="1800" loading="lazy"}
 
 <div style="text-align: justify">
 
