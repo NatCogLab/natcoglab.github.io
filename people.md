@@ -21,7 +21,7 @@ permalink: /people/
 	     &nbsp; Assistant Professor, Brain and Cognitive Sciences & Neuroscience<br/>
              &nbsp; Affiliated Faculty, Goergen Institute for Data Science<br/>
 	     &nbsp; <br/>
-             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2024.12.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
+             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2024.12b.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
              &nbsp; <font color="DarkGray"><em>Indefatigable team leader and whirlwind of ideas</em></font>
         </div></div>
 
@@ -100,7 +100,7 @@ AJ's reasearch explores how anticipation of future events influences perception 
              &nbsp; Ph.D. student, Brain and Cognitive Sciences<br/>
              &nbsp; <br/><br/>
              &nbsp; <em>xye13 (at) ur.rochester.edu</em><br/>
-             &nbsp; <font color="DarkGray"><em>I publish fanvids on Bilibili, some of which have 40k+ views.</em></font>
+             &nbsp; <font color="DarkGray"><em>Publishes fanvids on Bilibili, some of which have 40k+ views.</em></font>
         </div></div>
 
 </td></tr></table>
