@@ -23,7 +23,7 @@ permalink: /research/
 	Because stories affect all avenues of our cognition, we study them anywhere they could be instantiated, including in <strong><font color="1E90FF">human behavior</font></strong>, in the <strong><font color="1E90FF">human brain</font></strong>, and in <strong><font color="1E90FF">artificial neural networks</font></strong>.
 	<br/><br/>
 	Because	stories are a whirlwind of incredibly complex patterns of information, we study their underpinnings using a diverse array of methods and experimental techniques,
-                including <strong><font color="darkviolet">machine learning, psychophysics, neuroimaging (fMRI), neural network models</font></strong>, and <strong><font color="darkviolet">real-time neurofeedback (neural sculpting)</font></strong>.
+                including <strong><font color="#9B59B6">machine learning, psychophysics, neuroimaging (fMRI), neural network models</font></strong>, and <strong><font color="#9B59B6">real-time neurofeedback (neural sculpting)</font></strong>.
 	<br/><br/>
 	Some of the questions our lab is currently focusing on include:<br/>
 	<br/>&#9830; &nbsp;&nbsp; neural + behavioral mechanisms of information <u>summarization</u> in complex narratives (<strong><font color="1E90FF">Sun & Iordan, 2024</font></strong>)
