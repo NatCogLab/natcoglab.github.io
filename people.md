@@ -32,7 +32,7 @@ permalink: /people/
 Dr. Iordan is a cognitive and computational neuroscientist who studies how we construct, remember, and communicate naturalistic stories and events.
 Previously, she was a Postdoctoral Fellow at the <a href="http://pni.princeton.edu"><font color="orange">Princeton Neuroscience Institute</font></a> and
 earned her Ph.D. in Computer Science from the <a href="http://vision.stanford.edu">Vision and Learning Lab</a> at <a href="http://www.stanford.edu"><font color="crimson">Stanford University</font></a>.
-Her academic journey started at <a href="http://www.williams.edu"><font color="darkviolet">Williams College</font></a> with a B.A. in Computer Science, Mathematics, and Cognitive Science.
+Her academic journey started at <a href="http://www.williams.edu"><font color="#9B59B6">Williams College</font></a> with a B.A. in Computer Science, Mathematics, and Cognitive Science.
 When she's not in the lab, Cora enjoys watching Sci-Fi shows in search of new stimuli, playing board games, and building cities out of Legos with her son.
 
 <br/>
