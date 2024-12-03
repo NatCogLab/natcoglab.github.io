@@ -12,7 +12,7 @@ permalink: /conferences/
 
 **Multidimensionality and Individual Differences in the Perception of Creativity in Improvised Narratives**\
 Zeng, Lilienthal, Iordan, White, & Piazza\
-<span style="color:violet">**Talk**</span> at *Annual Conference of the Society for Psychology of Aesthetics, Creativity, and the Arts (SPACA 2025)*
+<span style="color:purple">**Talk**</span> at *Annual Conference of the Society for Psychology of Aesthetics, Creativity, and the Arts (SPACA 2025)*
 
 ## 2024
 
@@ -29,7 +29,7 @@ Poster at *Annual Meeting of the Vision Science Society (VSS 2023)*
 **Adapting a Language Transformer Model to Capture Subjective Judgments of Narrative Creativity**\
 Zeng, Lilienthal, Iordan, White, & Piazza\
 Poster at *Graduate Research Symposium, University of Rochester (2023)*\
-<span style="color:tomato">**Best Poster Award**</span>
+<span style="color:#D05C5C">**Best Poster Award**</span>
 
 ## 2022
 
