@@ -18,7 +18,7 @@ Shulhan, Iordan, Fu, Mekjan, Attwood, Zeng, Pobric, Zasiekina, & Talmi\
 
 **Sculpting New Visual Categories into the Human Brain**\
 Iordan, Ritvo, Norman, Turk-Browne, & Cohen\
-*Proceedings of the National Academy of Sciences (in press)*
+[*Proceedings of the National Academy of Sciences (2024)*]({{ site.baseurl }}/assets/pdf/iordan-et-al-pnas-2024.pdf){:.no-push-state}
 
 **Inducing Representational Change in the Hippocampus through Real-Time Neurofeedback**\
 Peng, Wammes, Nguyen, Iordan, Norman, & Turk-Browne\
