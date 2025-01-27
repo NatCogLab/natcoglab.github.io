@@ -142,7 +142,7 @@ Odessa is interested in the roles that prior experience and expertise play in st
 <tr><td width="100%" valign="top" style="padding-right: 25px;">
 
         <div class="entry">
-        <img src="{{ site.baseurl }}/assets/img/vandita1.jpg" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
+        <img src="{{ site.baseurl }}/assets/img/vandita2.jpg" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
         <div class="main">
              &nbsp; <span style="font-size:16pt;"><strong>Vandita</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
              &nbsp; <strong>Vandita Soni</strong><br/>
@@ -150,6 +150,7 @@ Odessa is interested in the roles that prior experience and expertise play in st
 	     &nbsp; <br/>
 	     &nbsp; <br/>
 	     &nbsp; <em> vsoni3 (at) u.rochester.edu</em><br/>
+             &nbsp; 
         </div></div>
 
 </td></tr></table>
