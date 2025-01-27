@@ -146,11 +146,10 @@ Odessa is interested in the roles that prior experience and expertise play in st
         <div class="main">
              &nbsp; <span style="font-size:16pt;"><strong>Vandita</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
              &nbsp; <strong>Vandita Soni</strong><br/>
-             &nbsp; Majors: Brain and Cognitive Sciences (concentration in Computing & AI)<br/>
+             &nbsp; Major: Brain and Cognitive Sciences (concentration in Computing & AI)<br/>
 	     &nbsp; <br/>
 	     &nbsp; <br/>
 	     &nbsp; <em> vsoni3 (at) u.rochester.edu</em><br/>
-             &nbsp; 
         </div></div>
 
 </td></tr></table>
