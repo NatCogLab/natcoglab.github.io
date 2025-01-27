@@ -21,7 +21,7 @@ permalink: /people/
 	     &nbsp; Assistant Professor, Brain and Cognitive Sciences & Neuroscience<br/>
              &nbsp; Affiliated Faculty, Goergen Institute for Data Science<br/>
 	     &nbsp; <br/>
-             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2024.12b.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
+             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2025.01b.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
              &nbsp; <font color="DarkGray"><em>Indefatigable team leader and whirlwind of ideas</em></font>
         </div></div>
 
@@ -96,7 +96,7 @@ AJ's reasearch explores how anticipation of future events influences perception 
         <img src="{{ site.baseurl }}/assets/img/alex2.jpg" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
         <div class="main">
              &nbsp; <span style="font-size:16pt;"><strong>Alex</strong></span> &nbsp;&nbsp;&nbsp;<em>they/them, she/her</em><br/>
-             &nbsp; <strong>Alex Ye, B.A., M.A., M.A.</strong><br/>
+             &nbsp; <strong>Alex Ye, M.A., M.A.</strong><br/>
              &nbsp; Ph.D. student, Brain and Cognitive Sciences<br/>
              &nbsp; <br/><br/>
              &nbsp; <em>xye13 (at) ur.rochester.edu</em><br/>
@@ -111,7 +111,7 @@ Alex’s research focuses on the factors that contribute to how people generate 
 
 </div>
 
-## Undergraduate Researcher
+## Undergraduate Researchers
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr><td width="100%" valign="top" style="padding-right: 25px;">
@@ -133,6 +133,31 @@ Alex’s research focuses on the factors that contribute to how people generate 
 <div style="text-align: justify">
 
 Odessa is interested in the roles that prior experience and expertise play in story encoding and comprehension. They are currently a second-year student at the University of Rochester. Outside the lab, Odessa enjoys ice skating, drawing, and biking around Rochester.
+
+<br/><br/><br/>
+
+</div>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td width="100%" valign="top" style="padding-right: 25px;">
+
+        <div class="entry">
+        <img src="{{ site.baseurl }}/assets/img/vandita1.jpg" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
+        <div class="main">
+             &nbsp; <span style="font-size:16pt;"><strong>Vandita</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
+             &nbsp; <strong>Vandita Soni</strong><br/>
+             &nbsp; Majors: Brain and Cognitive Sciences (concentration in Computing & AI)<br/>
+	     &nbsp; <br/>
+	     &nbsp; <br/>
+	     &nbsp; <em> vsoni3 (at) u.rochester.edu</em><br/>
+             &nbsp; 
+        </div></div>
+
+</td></tr></table>
+
+<div style="text-align: justify">
+	
+Vandita is interested in the role of priming in narrative comprehension and recall. She is currently a third-year student at the University of Rochester. Outside the lab, Vandita enjoys snowboarding, ceramics and cooking. 
 
 <br/><br/><br/>
 
