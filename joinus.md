@@ -43,7 +43,7 @@ We are looking for Ph.D. candidates with research experience in at least two of 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9830; &nbsp;&nbsp; neural network design / applications
 <br/><br/>
 
-Our lab will be <font color="1E90FF"><strong>recruiting 1 Ph.D. student for a start date of Fall 2026</strong></font>. Interested candidates are invited to apply either to the <a href="https://www.sas.rochester.edu/bcs/graduate/admission.html">Brain and Cognitive Sciences Ph.D. program</a>, or to the <a href="https://www.urmc.rochester.edu/education/graduate/phd/neurosciences/apply.aspx">Neuroscience Ph.D. program</a> at the University of Rochester. Application deadlines for both programs will be in early December 2025. More information will be posted here in Fall 2025.
+Our lab is currently <font color="1E90FF"><strong>not actively recruiting graduate students</strong></font>.<br/><br/>
 
 <!--https://www.sas.rochester.edu/bcs/graduate/admission.html-->
 <!--https://www.urmc.rochester.edu/education/graduate/phd/neurosciences/apply.aspx-->
