@@ -21,7 +21,7 @@ permalink: /people/
 	     &nbsp; Assistant Professor, Brain and Cognitive Sciences & Neuroscience<br/>
              &nbsp; Affiliated Faculty, Goergen Institute for Data Science<br/>
 	     &nbsp; <br/>
-             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2025.04.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
+             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2025.04b.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
              &nbsp; <font color="DarkGray"><em>Indefatigable team leader and whirlwind of ideas</em></font>
         </div></div>
 
@@ -122,7 +122,7 @@ Alex’s research focuses on the factors that contribute to how people generate 
              &nbsp; <span style="font-size:16pt;"><strong>Odessa</strong></span> &nbsp;&nbsp;&nbsp;<em>any/all</em><br/>
              &nbsp; <strong>Odessa Meulbroek</strong><br/>
              &nbsp; Majors: Brain and Cognitive Sciences & Studio Art<br/>
-	     &nbsp; Meliora Fellow (2024)<br/>
+	     &nbsp; Meliora Fellow (2024), Schwartz Discover Fellow (2025)<br/>
 	     &nbsp; <br/>
 	     &nbsp; <em> omeulbro (at) u.rochester.edu</em><br/>
              &nbsp; <font color="DarkGray"><em>Drawn to reading rabbit holes about Silicon Valley fraudsters & cult exposés</em></font>
