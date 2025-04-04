@@ -11,7 +11,7 @@ permalink: /publications/
 ## Preprint
 
 **Emotional Similarity Between Personally-Relevant Photographs of Negative World Events**\
-Shulhan, Iordan, Fu, Mekjan, Attwood, Zeng, Pobric, Zasiekina, & Talmi\
+Shulhan, Dupertuys, Iordan, Fu, Mekjan, Attwood, Zeng, Pobric, Zasiekina, & Talmi\
 [*OSF (2024)*](https://osf.io/preprints/osf/5vr62)
 
 ## Publications
