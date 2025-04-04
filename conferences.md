@@ -10,6 +10,14 @@ permalink: /conferences/
 
 ## 2025
 
+**Event Structure Shapes How Humans Summarize Naturalistic Narratives**\
+Sun & Iordan\
+<span style="color:#9B59B6">**Talk**</span> at *4th Workshop on Processing and Evaluating Event Representations (PEER 2025)*
+
+**Multidimensionality and Individual Differences in the Perception of Creativity in Improvised Narratives**\
+Zeng, Lilienthal, Iordan, White, & Piazza\
+<span style="color:#9B59B6">**Talk**</span> at *4th Workshop on Processing and Evaluating Event Representations (PEER 2025)*
+
 **Multidimensionality and Individual Differences in the Perception of Creativity in Improvised Narratives**\
 Zeng, Lilienthal, Iordan, White, & Piazza\
 <span style="color:#9B59B6">**Talk**</span> at *Annual Conference of the Society for Psychology of Aesthetics, Creativity, and the Arts (SPACA 2025)*
