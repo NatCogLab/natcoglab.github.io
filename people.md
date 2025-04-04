@@ -21,7 +21,7 @@ permalink: /people/
 	     &nbsp; Assistant Professor, Brain and Cognitive Sciences & Neuroscience<br/>
              &nbsp; Affiliated Faculty, Goergen Institute for Data Science<br/>
 	     &nbsp; <br/>
-             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2025.01b.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
+             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2025.04.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
              &nbsp; <font color="DarkGray"><em>Indefatigable team leader and whirlwind of ideas</em></font>
         </div></div>
 
@@ -147,7 +147,7 @@ Odessa is interested in the roles that prior experience and expertise play in st
              &nbsp; <span style="font-size:16pt;"><strong>Vandita</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
              &nbsp; <strong>Vandita Soni</strong><br/>
              &nbsp; Major: Brain and Cognitive Sciences (concentration in Computing & AI)<br/>
-	     &nbsp; <br/>
+	     &nbsp; Wiesman Fellow (2025)<br/>
 	     &nbsp; <br/>
 	     &nbsp; <em> vsoni3 (at) u.rochester.edu</em><br/>
              &nbsp; 
