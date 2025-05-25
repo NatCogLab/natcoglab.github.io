@@ -132,7 +132,7 @@ Alex’s research focuses on the factors that contribute to how people generate 
 
 <div style="text-align: justify">
 
-Odessa is interested in the roles that prior experience and expertise play in story encoding and comprehension. They are currently a second-year student at the University of Rochester. Outside the lab, Odessa enjoys ice skating, drawing, and biking around Rochester.
+Odessa is interested in the roles that prior experience and expertise play in story encoding and comprehension. They are currently a rising third-year student at the University of Rochester. Outside the lab, Odessa enjoys ice skating, drawing, and biking around Rochester.
 
 <br/><br/><br/>
 
@@ -157,7 +157,7 @@ Odessa is interested in the roles that prior experience and expertise play in st
 
 <div style="text-align: justify">
 	
-Vandita is interested in the role of priming in narrative comprehension and recall. She is currently a third-year student at the University of Rochester. Outside the lab, Vandita enjoys snowboarding, ceramics and cooking. 
+Vandita is interested in the role of priming in narrative comprehension and recall. She is currently a rising fourth-year student at the University of Rochester. Outside the lab, Vandita enjoys snowboarding, ceramics and cooking. 
 
 <br/><br/><br/>
 
