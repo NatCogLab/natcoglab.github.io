@@ -18,10 +18,9 @@ permalink: /people/
         <div class="main">
              &nbsp; <span style="font-size:16pt;"><strong>Cora</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
              &nbsp; <strong>Coraline Rinn Iordan, Ph.D.</strong><br/>
-	     &nbsp; Assistant Professor, Brain and Cognitive Sciences & Neuroscience<br/>
-             &nbsp; Affiliated Faculty, Goergen Institute for Data Science<br/>
-	     &nbsp; <br/>
-             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2025.04b.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
+	     &nbsp; Assistant Professor, Brain and Cognitive Sciences, Neuroscience, & Center for Visual Science<br/>
+             &nbsp; Affiliated Faculty, Goergen Institute for Data Science and AI<br/>
+             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2025.05.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
              &nbsp; <font color="DarkGray"><em>Indefatigable team leader and whirlwind of ideas</em></font>
         </div></div>
 
@@ -31,7 +30,7 @@ permalink: /people/
 
 Dr. Iordan is a cognitive and computational neuroscientist who studies how we construct, remember, and communicate naturalistic stories and events.
 Previously, she was a Postdoctoral Fellow at the <a href="http://pni.princeton.edu"><font color="orange">Princeton Neuroscience Institute</font></a> and
-earned her Ph.D. in Computer Science from the <a href="http://vision.stanford.edu">Vision and Learning Lab</a> at <a href="http://www.stanford.edu"><font color="crimson">Stanford University</font></a>.
+she earned her Ph.D. in Computer Science from the <a href="http://vision.stanford.edu">Vision and Learning Lab</a> at <a href="http://www.stanford.edu"><font color="crimson">Stanford University</font></a>.
 Her academic journey started at <a href="http://www.williams.edu"><font color="#9B59B6">Williams College</font></a> with a B.A. in Computer Science, Mathematics, and Cognitive Science.
 When she's not in the lab, Cora enjoys watching Sci-Fi shows in search of new stimuli, playing board games, and building cities out of Legos with her son.
 
@@ -121,7 +120,7 @@ Alex’s research focuses on the factors that contribute to how people generate 
         <div class="main">
              &nbsp; <span style="font-size:16pt;"><strong>Odessa</strong></span> &nbsp;&nbsp;&nbsp;<em>any/all</em><br/>
              &nbsp; <strong>Odessa Meulbroek</strong><br/>
-             &nbsp; Majors: Brain and Cognitive Sciences & Studio Art<br/>
+             &nbsp; Major: Brain and Cognitive Sciences; Minors: Studio Art & Psychology<br/>
 	     &nbsp; Meliora Fellow (2024), Schwartz Discover Fellow (2025)<br/>
 	     &nbsp; <br/>
 	     &nbsp; <em> omeulbro (at) u.rochester.edu</em><br/>
