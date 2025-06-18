@@ -50,7 +50,8 @@ When she's not in the lab, Cora enjoys watching Sci-Fi shows in search of new st
              &nbsp; <span style="font-size:16pt;"><strong>Claire</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
              &nbsp; <strong>Claire Sun, B.A., B.S.</strong><br/>
              &nbsp; Ph.D. student, Brain and Cognitive Sciences<br/>
-	     &nbsp; <br/><br/>
+	     &nbsp; AS&E Donald M. and Janet C. Barnard Fellow (2025-2026)<br/>
+      	     &nbsp; <br/>
 	     &nbsp; <em>csun28 (at) ur.rochester.edu</em><br/>
              &nbsp; <font color="DarkGray"><em>AI amalgamation trying to understand humans</em></font>
         </div></div>
