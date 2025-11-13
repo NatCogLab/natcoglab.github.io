@@ -10,6 +10,19 @@ permalink: /conferences/
 
 ## 2025
 
+**Narrative Summarization Reflects Underlying Event Structure in Episodic Memory**\
+Sun & Iordan\
+Poster at *Annual Meeting of the Society for Neuroscience (SfN 2025)*\
+<span style="color:#C84C4C">**Professional Development and Travel Award**</span>
+
+**How Do Temporal Expectations Influence Memory for Complex Narratives and Events?**\
+Jayan, Li, & Iordan\
+Poster at *Annual Meeting of the Society for Neuroscience (SfN 2025)*
+
+**Expertise Facilitates Event Perception and Memory Recall for Naturalistic Narratives**\
+Meulbroek & Iordan\
+Poster at *Annual Meeting of the Society for Neuroscience (SfN 2025)*
+
 **Event Structure Shapes How Humans Summarize Naturalistic Narratives**\
 Sun & Iordan\
 <span style="color:#9B59B6">**Talk**</span> at *4th Workshop on Processing and Evaluating Event Representations (PEER 2025)*
@@ -125,7 +138,7 @@ Poster at *Annual Meeting of the Israel Society for Neuroscience (ISfN 2019)*
 **Using Closed-Loop Real-Time fMRI Neurofeedback to Induce Neural Plasticity and Influence Perception**\
 Iordan, Ritvo, Norman, Turk-Browne, & Cohen\
 Poster at *Annual Meeting of the Society for Neuroscience (SfN 2018)*\
-<span style="color:#C84C4C">**Professional Development Award**</span>
+<span style="color:#C84C4C">**Professional Development and Travel Award**</span>
 
 **Why We Struggle to Multitask: Converging Evidence from Modeling, Behavior, and Neuroimaging**\
 Hoskin, Musslick, Iordan, & Cohen\
@@ -193,7 +206,7 @@ Poster at *Neural Information Processing Systems, Machine Learning in Neuroimagi
 **Typicality Sharpens Category Representations in Object-Selective Cortex**\
 Iordan,	Greene,	Beck, &	Fei-Fei\
 <span style="color:#9B59B6">**Talk**</span> at *Annual Meeting of the Society for Neuroscience (SfN 2015)*\
-<span style="color:#C84C4C">**Professional Development Award**</span>
+<span style="color:#C84C4C">**Professional Development and Travel Award**</span>
 
 **Fine-Grained Object Category Decoding Using fMRI in Human Visual Cortex**\
 Iordan,	Fannjiang, Beck, & Fei-Fei\
