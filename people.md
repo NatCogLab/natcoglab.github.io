@@ -21,7 +21,7 @@ permalink: /people/
 	     &nbsp; Assistant Professor, Brain and Cognitive Sciences, Neuroscience, & <br/>
              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Center for Visual Science<br/>
              &nbsp; Affiliated Faculty, Goergen Institute for Data Science and AI<br/>
-             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2025.05.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
+             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2025.11.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
              &nbsp; <font color="DarkGray"><em>Indefatigable team leader and whirlwind of ideas</em></font>
         </div></div>
 
@@ -50,9 +50,9 @@ When she's not in the lab, Cora enjoys watching Sci-Fi shows in search of new st
              &nbsp; <span style="font-size:16pt;"><strong>Claire</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
              &nbsp; <strong>Claire Sun, B.A., B.S.</strong><br/>
              &nbsp; Ph.D. student, Brain and Cognitive Sciences<br/>
-	     &nbsp; Donald M. and Janet C. Barnard Fellow (2025-2026)<br/>
+	         &nbsp; Donald M. and Janet C. Barnard Fellow (2025-2026)<br/>
       	     &nbsp; <br/>
-	     &nbsp; <em>csun28 (at) ur.rochester.edu</em><br/>
+	         &nbsp; <em>csun28 (at) ur.rochester.edu</em><br/>
              &nbsp; <font color="DarkGray"><em>AI amalgamation trying to understand humans</em></font>
         </div></div>
 
@@ -75,8 +75,9 @@ Claire's research focuses on the neural and behavioral mechanisms of information
              &nbsp; <span style="font-size:16pt;"><strong>AJ</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
              &nbsp; <strong>Aishwarya Jayan, B.S.</strong><br/>
              &nbsp; Ph.D. student, Neuroscience<br/>
-	     &nbsp; <br/><br/>
-	     &nbsp; <em>Aishwarya_Jayan (at) urmc.rochester.edu</em><br/>
+			 &nbsp; Center for Visual Science NEI T32 Fellow (2025-2026)<br/>
+	         &nbsp; <br/>
+	         &nbsp; <em>Aishwarya_Jayan (at) urmc.rochester.edu</em><br/>
              &nbsp; <font color="DarkGray"><em>Parent to an absurd number of plants</em></font>
         </div></div>
 
