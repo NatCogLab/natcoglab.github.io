@@ -8,7 +8,11 @@ sitemap: false
 permalink: /publications/
 ---
 
-## Preprint
+## Preprints
+
+**Expertise Shapes the Multidimensional Perception of Stories**\
+Zeng, Lilienthal, Iordan, White, & Piazza\
+[*PsyArXiv (2025)*](https://doi.org/10.31234/osf.io/563fm_v2)
 
 **Emotional Similarity Between Personally-Relevant Photographs of Negative World Events**\
 Shulhan, Dupertuys, Iordan, Fu, Mekjan, Attwood, Zeng, Pobric, Zasiekina, & Talmi\
