@@ -11,7 +11,7 @@ permalink: /people/
 ## PI, Naturalistic Cognition Lab
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td width="100%" valign="top" style="padding-right: 25px;">
+<tr><td width="100%" valign="top" style="padding-right: 10px;">
 
         <div class="entry">
         <img src="{{ site.baseurl }}/assets/img/cora1.png" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
@@ -99,7 +99,7 @@ Alex’s research focuses on the factors that contribute to how people generate 
         <div class="main">
              &nbsp; <span style="font-size:16pt;"><strong>Tamar</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
              &nbsp; <strong>Tamar Galvin, B.S.</strong><br/>
-             &nbsp; Ph.D. student, Brain and Cognitive Sciences (co-advised by Dr. Elise A. Piazza) <br/>
+             &nbsp; Ph.D. student, Brain and Cognitive Sciences (co-advised by Dr. Elise Piazza) <br/>
 			 &nbsp; University of Rochester Provost Fellow (2025-2030)<br/>
 	         &nbsp; <br/>
 	         &nbsp; <em>tgalvin (at) ur.rochester.edu</em><br/>
@@ -110,7 +110,7 @@ Alex’s research focuses on the factors that contribute to how people generate 
 
 <div style="text-align: justify">
 
-Tamar’s research interests include understanding the dynamics of naturalistic experience and narratives, with a special focus on social contexts and content. Before joining the lab, she graduated from the University of Rochester with a B.S. with Honors in Research in Brain and Cognitive Sciences, having worked with Dr. Elise A. Piazza. Outside of science, Tamar can be found doing various needle crafts, swimming, or reading from her ever-expanding book collection.
+Tamar’s research interests include understanding the dynamics of naturalistic experience and narratives, with a special focus on social contexts and content. Before joining the lab, she graduated from the University of Rochester with a B.S. with Honors in Research in Brain and Cognitive Sciences, having worked with Dr. Elise Piazza. Outside of science, Tamar can be found doing various needle crafts, swimming, or reading from her ever-expanding book collection.
 
 </div>
 
@@ -143,9 +143,10 @@ Vandita is interested in the role of priming in narrative comprehension and reca
 
 ## Lab Alumni
 
-Aishwarya Jayan, M.S., Neuroscience (2024-2025), <em>Now: Ph.D. candidate in Neuroscience, University of Rochester</em><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Center for Visual Science NEI T32 Fellow (2025-2026)</em><br/><br/>
+Aishwarya Jayan, M.S., Neuroscience (2024-2025)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Center for Visual Science NEI T32 Fellow (2025-2026)</em><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Now: Ph.D. candidate in Neuroscience, University of Rochester</em><br/><br/>
 Odessa Meulbroek, Undergraduate RA, Brain and Cognitive Sciences (2024-2025)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Meliora Fellow (2024), Schwarz Discover Fellow (2025)</em><br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Meliora Fellow (2024), Schwarz Discover Fellow (2025)</em><br/><br/>
 Xiomara Ortiz Lopez, Undergraduate RA, Brain and Cognitive Sciences (2024)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Ronald E. McNair Fellow (2023-2025)</em><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Ronald E. McNair Fellow (2023-2025)</em><br/>
