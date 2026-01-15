@@ -20,7 +20,7 @@ permalink: /people/
              &nbsp; <strong>Coraline Rinn Iordan, Ph.D.</strong><br/>
 	     &nbsp; Assistant Professor, Brain and Cognitive Sciences, Neuroscience, & <br/>
              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Center for Visual Science<br/>
-             &nbsp; Affiliated Faculty, Goergen Institute for Data Science and AI, & <br/>
+             &nbsp; Affiliated Faculty, Goergen Institute for Data Science and AI & <br/>
 			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Del Monte Institute for Neuroscience<br/>
              &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2026.01.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
              <!-&nbsp; <font color="DarkGray"><em>Indefatigable team leader and whirlwind of ideas</em></font>-->
@@ -110,7 +110,7 @@ Alex’s research focuses on the factors that contribute to how people generate 
 
 <div style="text-align: justify">
 
-Tamar’s research interests include understanding the dynamics of naturalistic experience and narratives, with a special focus on social contexts and content. Before joining the lab, she graduated from the University of Rochester with a B.S. with Honors in Research in Brain and Cognitive Sciences, having worked with Dr. Elise Piazza. Outside of science, Tamar can be found doing various needle crafts, swimming, or reading from her ever-expanding book collection.
+Tamar’s research interests include understanding the dynamics of naturalistic experience and narratives, with a special focus on social contexts and content. Before joining the lab, she graduated from the University of Rochester with a B.S. with Honors in Research in Brain and Cognitive Sciences, working with Dr. Elise Piazza. Outside of science, Tamar can be found doing various needle crafts, swimming, or reading from her ever-expanding book collection.
 
 </div>
 
@@ -137,13 +137,11 @@ Tamar’s research interests include understanding the dynamics of naturalistic 
 	
 Vandita is interested in the role of priming in narrative comprehension and recall. She is currently a rising fourth-year student at the University of Rochester. Outside the lab, Vandita enjoys snowboarding, ceramics and cooking. 
 
-<br/><br/><br/>
-
 </div>
 
 ## Lab Alumni
 
-Aishwarya Jayan, M.S., Neuroscience (2024-2025)
+Aishwarya Jayan, M.S., Neuroscience (2024-2025)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Center for Visual Science NEI T32 Fellow (2025-2026)</em><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Now: Ph.D. candidate in Neuroscience, University of Rochester</em><br/><br/>
 Odessa Meulbroek, Undergraduate RA, Brain and Cognitive Sciences (2024-2025)<br/>
