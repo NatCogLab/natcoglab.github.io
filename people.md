@@ -120,14 +120,14 @@ Vandita is interested in the role of priming in narrative comprehension and reca
 
         <div class="entry">
         <div class="main">
-             &nbsp; Tamar Galvin, First-Year Graduate Student (co-advised by Elise A. Piazza), Brain and Cognitive Sciences (2025)><br/>
-             &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>University of Rochester Provost Fellow (2025-2030)</em><br/>
-             &nbsp; Aishwarya Jayan, M.S., Neuroscience (2024-2025)<br/>
-	         &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Center for Visual Science NEI T32 Fellow (2025-2026)<br/>
-      	     &nbsp; Odessa Meulbroek, Undergraduate RA, Brain and Cognitive Sciences (2024-2025<br/>
-	         &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Meliora Fellow (2024), Schwarz Discover Fellow (2025)</em><br/>
-             &nbsp; Xiomara Ortiz Lopez, Undergraduate RA, Brain and Cognitive Sciences (2024)<br/>
-			 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Ronald E. McNair Fellow (2023-2025)</em>
+    	Tamar Galvin, First-Year Graduate Student (co-advised by Elise Piazza), Brain and Cognitive Sciences<br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>University of Rochester Provost Fellow</em><br/>
+        Aishwarya Jayan, M.S., Neuroscience<br/>
+	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Center for Visual Science NEI T32 Fellow</em><br/>
+      	Odessa Meulbroek, Undergraduate RA, Brain and Cognitive Sciences<br/>
+	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Meliora Fellow, Schwarz Discover Fellow</em><br/>
+        Xiomara Ortiz Lopez, Undergraduate RA, Brain and Cognitive Sciences<br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Ronald E. McNair Fellow</em>
         </div></div>
 
 </td></tr></table>
