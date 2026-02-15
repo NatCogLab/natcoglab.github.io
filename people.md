@@ -109,17 +109,15 @@ Alex’s research focuses on the factors that contribute to how people generate 
 
 <div style="text-align: justify">
 	
-Vandita is interested in the role of priming in narrative comprehension and recall. She is currently a rising fourth-year student at the University of Rochester. Outside the lab, Vandita enjoys snowboarding, ceramics and cooking. 
+Vandita is interested in the role of priming in narrative comprehension and recall. She is currently a fourth-year student at the University of Rochester. Outside the lab, Vandita enjoys snowboarding, ceramics and cooking.
 
 </div>
 
 ## Lab Alumni
 
-Tamar Galvin, First-Year Graduate Student (co-advised by Elise A. Piazza), Brain and Cognitive Sciences<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>University of Rochester Provost Fellow</em><br/>
 Aishwarya Jayan, M.S., Neuroscience<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Center for Visual Science NEI T32 Fellow</em><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Center for Visual Science NEI T32 Fellow (2025-2026)</em><br/>
 Odessa Meulbroek, Undergraduate RA, Brain and Cognitive Sciences<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Meliora Fellow, Schwarz Discover Fellow</em><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Meliora Fellow (2024), Schwarz Discover Fellow (2025)</em><br/>
 Xiomara Ortiz Lopez, Undergraduate RA, Brain and Cognitive Sciences<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Ronald E. McNair Fellow (2023-2025)</em>
