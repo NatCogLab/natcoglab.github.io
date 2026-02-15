@@ -22,7 +22,7 @@ permalink: /people/
              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Center for Visual Science<br/>
              &nbsp; Affiliated Faculty, Goergen Institute for Data Science and AI & <br/>
 			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Del Monte Institute for Neuroscience<br/>
-             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2026.01.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
+             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2026.02.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
              <!-&nbsp; <font color="DarkGray"><em>Indefatigable team leader and whirlwind of ideas</em></font>-->
         </div></div>
 
@@ -116,7 +116,7 @@ Vandita is interested in the role of priming in narrative comprehension and reca
 
 ## Lab Alumni
 
-Tamar Galvin, First-Year Graduate Student (Co-Advised by Elise A. Piazza), Brain and Cognitive Sciences (2025)<br/>
+Tamar Galvin, First-Year Graduate Student (co-advised by Elise A. Piazza), Brain and Cognitive Sciences (2025)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>University of Rochester Provost Fellow (2025-2030)</em><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Now: Ph.D. student in Brain and Cognitive Sciences, University of Rochester</em><br/><br/>
 Aishwarya Jayan, M.S., Neuroscience (2024-2025)<br/>
