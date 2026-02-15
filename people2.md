@@ -5,7 +5,7 @@ description: >
   Our team
 hide_description: true
 sitemap: false
-permalink: /people/
+permalink: /people2/
 ---
 
 ## PI, Naturalistic Cognition Lab
