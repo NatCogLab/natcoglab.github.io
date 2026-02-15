@@ -14,7 +14,7 @@ permalink: /publications/
 Zeng, Lilienthal, Iordan, White, & Piazza\
 [*PsyArXiv (2025)*](https://doi.org/10.31234/osf.io/563fm_v2)
 
-**Emotional Similarity Between Personally-Relevant Photographs of Negative World Events**\
+**Does Anxiety Shape Perceived Similarity of Negative Information?**\
 Shulhan, Dupertuys, Iordan, Fu, Mekjan, Attwood, Zeng, Pobric, Zasiekina, & Talmi\
 [*OSF (2024)*](https://osf.io/preprints/osf/5vr62)
 
