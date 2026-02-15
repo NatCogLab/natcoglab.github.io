@@ -10,23 +10,60 @@ permalink: /people2/
 
 ## PI, Naturalistic Cognition Lab
 
-<img src="{{ site.baseurl }}/assets/img/cora1.png" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/><br/>
+<img src="{{ site.baseurl }}/assets/img/cora1.png" class="image img-rounded" width="300px" border="0" style="border-radius:50%"/><br/>
 <span style="font-size:16pt;"><strong>Cora</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
 <strong>Coraline Rinn Iordan, Ph.D.</strong><br/>
-Assistant Professor, Brain and Cognitive Sciences, Neuroscience, & Center for Visual Science<br/>
+<strong>Assistant Professor</strong>, Brain and Cognitive Sciences, Neuroscience, & Center for Visual Science<br/>
 Affiliated Faculty, Goergen Institute for Data Science and AI & Del Monte Institute for Neuroscience<br/>
 <em>cora (at) rochester.edu
 &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2026.02.pdf">CV</a>
 &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em><br/>
 <font color="DarkGray"><em>Indefatigable team leader and whirlwind of ideas</em></font><br/>
-
 Dr. Iordan is a cognitive and computational neuroscientist who studies how we construct, remember, and communicate naturalistic stories and events.
 Previously, she was a Postdoctoral Fellow at the <a href="http://pni.princeton.edu"><font color="orange">Princeton Neuroscience Institute</font></a> and
 she earned her Ph.D. in Computer Science from the <a href="http://vision.stanford.edu">Vision and Learning Lab</a> at <a href="http://www.stanford.edu"><font color="crimson">Stanford University</font></a>.
 Her academic journey started at <a href="http://www.williams.edu"><font color="#9B59B6">Williams College</font></a> with a B.A. in Computer Science, Mathematics, and Cognitive Science.
-When she's not in the lab, Cora enjoys watching Sci-Fi shows in search of new stimuli, playing board games, and building cities out of Legos with her son.
+When she's not in the lab, Cora enjoys watching Sci-Fi shows in search of new stimuli, playing board games, and building cities out of Legos with her son.<br/>
 
-<br/><br/>
+## Graduate Students
+
+<img src="{{ site.baseurl }}/assets/img/claire1.jpeg" class="image img-rounded" width="300px" border="0" style="border-radius:50%"/><br/>
+<span style="font-size:16pt;"><strong>Claire</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
+<strong>Claire Sun, M.S.</strong><br/>
+<strong>Ph.D. candidate</strong>, Brain and Cognitive Sciences<br/>
+Donald M. and Janet C. Barnard Fellow (2025-2026)<br/>
+<em>csun28 (at) ur.rochester.edu</em><br/>
+<font color="DarkGray"><em>AI amalgamation trying to understand humans</em></font><br/>
+Claire's research focuses on the neural and behavioral mechanisms of information summarization in complex narratives. Prior to joining the lab, Claire was a Research Associate at the Icahn School of Medicine at Mount Sinai and she earned a B.S. in Neuroscience and a B.A. in Computer Science from Brandeis University. Outside the lab, Claire enjoys working on her sewing machine making plushies and cosplays. Her favorite genre is Sci-Fi and she likes to look at media as an inspiration for the future.<br/>
+
+<br/>
+
+<img src="{{ site.baseurl }}/assets/img/alex2.jpg" class="image img-rounded" width="300px" border="0" style="border-radius:50%"/><br/>
+<span style="font-size:16pt;"><strong>Alex</strong></span> &nbsp;&nbsp;&nbsp;<em>they/them, she/her</em><br/>
+<strong>Alex Ye, M.A., M.A.</strong><br/>
+<strong>Ph.D. student</strong>, Brain and Cognitive Sciences<br/>
+<em>xye13 (at) ur.rochester.edu</em><br/>
+<font color="DarkGray"><em>Publishes fanvids on Bilibili, some of which have 40k+ views.</em></font><br/>
+Alex’s research focuses on the factors that contribute to how people generate event boundaries in naturalistic narratives. Before joining the lab, Alex was a Research Associate at the Hong Kong Polytechnic University. They earned an M.A. in Psychology and an M.A. in Linguistics at the Chinese University of Hong Kong. Outside the lab, Alex is interested in hiking, swimming, cooking, and K-pop.<br/>
+
+## Undergraduate Researcher
+
+<img src="{{ site.baseurl }}/assets/img/vandita2.jpg" class="image img-rounded" width="300px" border="0" style="border-radius:50%"/><br/>
+<span style="font-size:16pt;"><strong>Vandita</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
+<strong>Vandita Soni</strong><br/>
+<strong>Research Assistant</strong>, Major: Brain and Cognitive Sciences (concentration in Computing & AI)<br/>
+Wiesman Fellow (2025)<br/>
+<em> vsoni3 (at) u.rochester.edu</em><br/>	
+Vandita is interested in the role of priming in narrative comprehension and recall. She is currently a rising fourth-year student at the University of Rochester. Outside the lab, Vandita enjoys snowboarding, ceramics and cooking.<br/>
+
+## Lab Alumni
+
+Tamar Galvin, First-Year Graduate Student (co-advised by Elise A. Piazza), Brain and Cognitive Sciences (2025)<br/>
+Aishwarya Jayan, M.S., Neuroscience (2024-2025)<br/>
+Odessa Meulbroek, Undergraduate RA, Brain and Cognitive Sciences (2024-2025)<br/>
+Xiomara Ortiz Lopez, Undergraduate RA, Brain and Cognitive Sciences (2024)<br/>
+
+<br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr><td width="100%" valign="top" style="padding-right: 10px;">
@@ -59,6 +96,8 @@ When she's not in the lab, Cora enjoys watching Sci-Fi shows in search of new st
 </div>
 
 ## Graduate Students
+
+<img src="{{ site.baseurl }}/assets/img/claire1.jpeg" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr><td width="100%" valign="top" style="padding-right: 25px;">
