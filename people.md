@@ -87,31 +87,6 @@ Claire's research focuses on the neural and behavioral mechanisms of information
 
 Alex’s research focuses on the factors that contribute to how people generate event boundaries in naturalistic narratives. Before joining the lab, Alex was a Research Associate at the Hong Kong Polytechnic University. They earned an M.A. in Psychology and an M.A. in Linguistics at the Chinese University of Hong Kong. Outside the lab, Alex is interested in hiking, swimming, cooking, and K-pop.
 
-<br/><br/><br/>
-
-</div>
-
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td width="100%" valign="top" style="padding-right: 25px;">
-
-        <div class="entry">
-	<img src="{{ site.baseurl }}/assets/img/tamar1.png" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
-        <div class="main">
-             &nbsp; <span style="font-size:16pt;"><strong>Tamar</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
-             &nbsp; <strong>Tamar Galvin, B.S.</strong><br/>
-             &nbsp; Ph.D. student, Brain and Cognitive Sciences (co-advised by Dr. Elise Piazza) <br/>
-			 &nbsp; University of Rochester Provost Fellow (2025-2030)<br/>
-	         &nbsp; <br/>
-	         &nbsp; <em>tgalvin (at) ur.rochester.edu</em><br/>
-             &nbsp; <font color="DarkGray"><em>Owner of a small library's worth of books</em></font>
-        </div></div>
-
-</td></tr></table>
-
-<div style="text-align: justify">
-
-Tamar’s research interests include understanding the dynamics of naturalistic experience and narratives, with a special focus on social contexts and content. Before joining the lab, she graduated from the University of Rochester with a B.S. with Honors in Research in Brain and Cognitive Sciences, working with Dr. Elise Piazza. Outside of science, Tamar can be found doing various needle crafts, swimming, or reading from her ever-expanding book collection.
-
 </div>
 
 ## Undergraduate Researcher
@@ -141,6 +116,9 @@ Vandita is interested in the role of priming in narrative comprehension and reca
 
 ## Lab Alumni
 
+Tamar Galvin, First-Year Graduate Student, Brain and Cognitive Sciences (2025)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>University of Rochester Provost Fellow (2025-2030)</em><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Now: Ph.D. student in Brain and Cognitive Sciences, University of Rochester</em><br/><br/>
 Aishwarya Jayan, M.S., Neuroscience (2024-2025)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Center for Visual Science NEI T32 Fellow (2025-2026)</em><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Now: Ph.D. candidate in Neuroscience, University of Rochester</em><br/><br/>
