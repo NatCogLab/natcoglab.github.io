@@ -1,6 +1,6 @@
 # Welcome! &#8205; &#127752;
 
-![Screenshot]({{ site.baseurl }}/assets/img/group7b.png){:.lead width="1920" height="1080" loading="lazy"}
+![Screenshot]({{ site.baseurl }}/assets/img/group7bc.png){:.lead width="1920" height="1080" loading="lazy"}
 
 <div style="text-align: justify">
 
