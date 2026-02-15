@@ -116,7 +116,7 @@ Vandita is interested in the role of priming in narrative comprehension and reca
 
 ## Lab Alumni
 
-Tamar Galvin, First-Year Graduate Student, Brain and Cognitive Sciences (2025)<br/>
+Tamar Galvin, First-Year Graduate Student (Co-Advised by Elise A. Piazza), Brain and Cognitive Sciences (2025)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>University of Rochester Provost Fellow (2025-2030)</em><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Now: Ph.D. student in Brain and Cognitive Sciences, University of Rochester</em><br/><br/>
 Aishwarya Jayan, M.S., Neuroscience (2024-2025)<br/>
