@@ -18,7 +18,7 @@ permalink: /people/
         <div class="main">
              &nbsp; <span style="font-size:16pt;"><strong>Cora</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
              &nbsp; <strong>Coraline Rinn Iordan, Ph.D.</strong><br/>
-	     &nbsp; Assistant Professor, Brain and Cognitive Sciences, Neuroscience, & <br/>
+	     	 &nbsp; Assistant Professor, Brain and Cognitive Sciences, Neuroscience, & <br/>
              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Center for Visual Science<br/>
              &nbsp; Affiliated Faculty, Goergen Institute for Data Science and AI & <br/>
 			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Del Monte Institute for Neuroscience<br/>
@@ -122,9 +122,9 @@ Vandita is interested in the role of priming in narrative comprehension and reca
         <img src="{{ site.baseurl }}/assets/img/sonia1.jpg" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
         <div class="main">
              &nbsp; <span style="font-size:16pt;"><strong>Sonia</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
-             &nbsp; <strong>Sonia Chun/strong><br/>
-             &nbsp; Majors: Brain and Cognitive Sciences (concentration in Neurobiology) & Psychology<br/>
-	         &nbsp; <br/>
+             &nbsp; <strong>Sonia Chun</strong><br/>
+             &nbsp; Majors: Brain and Cognitive Sciences (concentration in Neurobiology) &<br/>
+	         &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Psychology<br/>
 	         &nbsp; <br/>
 	         &nbsp; <em> schun8 (at) u.rochester.edu</em><br/>
              &nbsp; 
