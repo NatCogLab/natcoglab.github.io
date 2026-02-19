@@ -98,7 +98,7 @@ Alex’s research focuses on the factors that contribute to how people generate 
         <div class="main">
              &nbsp; <span style="font-size:16pt;"><strong>Vandita</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
              &nbsp; <strong>Vandita Soni</strong><br/>
-             &nbsp; Major: Brain and Cognitive Sciences (concentration in Computing & AI)<br/>
+             &nbsp; Major: Brain and Cognitive Sciences (Computing & AI)<br/>
 	         &nbsp; Wiesman Fellow (2025)<br/>
 	         &nbsp; <br/>
 	         &nbsp; <em> vsoni3 (at) u.rochester.edu</em><br/>
@@ -123,8 +123,8 @@ Vandita is interested in the role of priming in narrative comprehension and reca
         <div class="main">
              &nbsp; <span style="font-size:16pt;"><strong>Sonia</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
              &nbsp; <strong>Sonia Chun</strong><br/>
-             &nbsp; Majors: Brain and Cognitive Sciences (concentration in Neurobiology) &<br/>
-	         &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Psychology<br/>
+             &nbsp; Majors: Brain and Cognitive Sciences (Neurobiology) & Psychology<br/>
+	         &nbsp; <br/>
 	         &nbsp; <br/>
 	         &nbsp; <em> schun8 (at) u.rochester.edu</em><br/>
              &nbsp; 
@@ -141,5 +141,5 @@ Sonia is interested in the mechanisms of episodic & semantic memory and the role
 ## Lab Alumni
 
 Aishwarya Jayan, M.S., Neuroscience, <em>Center for Visual Science NEI T32 Fellow (2025-2026)</em><br/>
-Odessa Meulbroek, Undergraduate RA, Brain and Cognitive Sciences, <em>Meliora Fellow (2024), Schwarz Discover Fellow (2025)</em><br/>
-Xiomara Ortiz Lopez, Undergraduate RA, Brain and Cognitive Sciences, <em>Ronald E. McNair Fellow (2023-2025)</em>
+Odessa Meulbroek, RA, Brain and Cognitive Sciences, <em>Meliora Fellow (2024), Schwarz Discover Fellow (2025)</em><br/>
+Xiomara Ortiz Lopez, RA, Brain and Cognitive Sciences, <em>Ronald E. McNair Fellow (2023-2025)</em>
