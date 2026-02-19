@@ -88,7 +88,7 @@ Alex’s research focuses on the factors that contribute to how people generate 
 
 </div>
 
-## Undergraduate Researcher
+## Undergraduate Researchers
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr><td width="100%" valign="top" style="padding-right: 25px;">
@@ -109,15 +109,37 @@ Alex’s research focuses on the factors that contribute to how people generate 
 
 <div style="text-align: justify">
 	
-Vandita is interested in the role of priming in narrative comprehension and recall. She is currently a fourth-year student at the University of Rochester. Outside the lab, Vandita enjoys snowboarding, ceramics and cooking.
+Vandita is interested in the role of priming in narrative comprehension and recall. She is a fourth-year student at the University of Rochester. Outside the lab, Vandita enjoys snowboarding, ceramics and cooking.
+
+<br/><br/><br/>
+
+</div>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td width="100%" valign="top" style="padding-right: 25px;">
+
+        <div class="entry">
+        <img src="{{ site.baseurl }}/assets/img/sonia1.jpg" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
+        <div class="main">
+             &nbsp; <span style="font-size:16pt;"><strong>Sonia</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
+             &nbsp; <strong>Sonia Chun/strong><br/>
+             &nbsp; Majors: Brain and Cognitive Sciences (concentration in Neurobiology) & Psychology<br/>
+	         &nbsp; <br/>
+	         &nbsp; <br/>
+	         &nbsp; <em> schun8 (at) u.rochester.edu</em><br/>
+             &nbsp; 
+        </div></div>
+
+</td></tr></table>
+
+<div style="text-align: justify">
+	
+Sonia is interested in the mechanisms of episodic & semantic memory and the role of emotion in naturalistic perception. She is a third-year student at the University of Rochester. Outside the lab, Sonia enjoys spinning yarn, cooking Korean food, and working with animals.
 
 </div>
 
 ## Lab Alumni
 
-Aishwarya Jayan, M.S., Neuroscience<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Center for Visual Science NEI T32 Fellow (2025-2026)</em><br/>
-Odessa Meulbroek, Undergraduate RA, Brain and Cognitive Sciences<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Meliora Fellow (2024), Schwarz Discover Fellow (2025)</em><br/>
-Xiomara Ortiz Lopez, Undergraduate RA, Brain and Cognitive Sciences<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Ronald E. McNair Fellow (2023-2025)</em>
+Aishwarya Jayan, M.S., Neuroscience, <em>Center for Visual Science NEI T32 Fellow (2025-2026)</em><br/>
+Odessa Meulbroek, Undergraduate RA, Brain and Cognitive Sciences, <em>Meliora Fellow (2024), Schwarz Discover Fellow (2025)</em><br/>
+Xiomara Ortiz Lopez, Undergraduate RA, Brain and Cognitive Sciences, <em>Ronald E. McNair Fellow (2023-2025)</em>
