@@ -15,6 +15,8 @@ permalink: /joinus/
 
 ## Postdocs
 
+Our lab is currently <font color="1E90FF"><strong>not actively recruiting postdocs</strong></font>.<br/><br/>
+
 <div style="text-align: justify">
 
 We are looking for postdoc candidates with a strong background in at least three of the following:
@@ -25,13 +27,15 @@ We are looking for postdoc candidates with a strong background in at least three
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9830; &nbsp;&nbsp; neural network design / applications
 <br/><br/>
 
-Our lab is currently <font color="1E90FF"><strong>not actively recruiting postdocs</strong></font>.<br/><br/>
-
-However, interested candidates who possess the experience outlined above are welcome to inquire about the possibility of a potential position by emailing Dr. Iordan with their CV and a cover letter (2-pg. max) detailing their past/current research and their research vision for our lab: <em><u>cora (at) rochester.edu</u></em>
+Interested candidates who possess the experience outlined above are welcome to inquire about the possibility of a potential position by emailing Dr. Iordan with their CV and a cover letter (2-pg. max) detailing their past/current research and their research vision for our lab: <em><u>cora (at) rochester.edu</u></em>
 
 </div>
 
 ## Ph.D. Students
+
+Our lab is currently <font color="1E90FF"><strong>not actively recruiting graduate students</strong></font>.<br/><br/>
+
+<!--<font color="1E90FF"><strong>Our lab is recruiting a graduate student for the 2026-2027 admission cycle</strong></font>. Interested candidates should submit their [online application](https://www.sas.rochester.edu/bcs/graduate/admission.html) to the Brain and Cognitive Sciences Department.-->
 
 <div style="text-align: justify">
 
@@ -43,8 +47,7 @@ We are looking for Ph.D. candidates with research experience in at least two of 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9830; &nbsp;&nbsp; neural network design / applications
 <br/><br/>
 
-Our lab is currently <font color="1E90FF"><strong>not actively recruiting graduate students</strong></font>.<br/><br/>
-
+<!--<font color="1E90FF"><strong>not actively recruiting graduate students</strong></font>.<br/><br/>-->
 <!--https://www.sas.rochester.edu/bcs/graduate/admission.html-->
 <!--https://www.urmc.rochester.edu/education/graduate/phd/neurosciences/apply.aspx-->
 
