@@ -8,6 +8,41 @@ sitemap: false
 permalink: /conferences/
 ---
 
+## 2026
+
+**Hierarchical representations of song acoustics and lyrics in auditory cortex**\
+Cassano-Coleman, Norman-Haignere, Iordan, & Piazza\
+Poster at *Annual Meeting of the Society for Neuroscience (SfN 2026)*
+<span style="color:#C84C4C">**Professional Development and Travel Award**</span>
+
+**Decoding the brain in real time: Multivariate approaches to fMRI-neurofeedback**\
+Iordan, Taschereau-Dumouchel, & Lubianiker\
+<span style="color:#9B59B6">**Symposium**</span> at *Real-Time Functional Imaging and Neurofeedback Conference (rtfIN 2026)*
+
+**Cinematic cuts reshape neural event boundaries: Individual-level evidence from naturalistic movie viewing**\
+Ye, Chun, Sun, & Iordan\
+Poster at *Annual Meeting of the Chinese Neuroscience Society (CNS 2026)*
+
+**Event structure guides memory compression during narrative summarization**\
+Sun & Iordan\
+Poster at *Annual Conference on Cognitive and Computational Neuroscience (CCN 2026)*
+
+**Cinematic cuts reshape neural event boundaries: Individual-level evidence from naturalistic movie viewing**\
+Ye, Chun, Sun, & Iordan\
+Poster at *Annual Conference on Cognitive and Computational Neuroscience (CCN 2026)*
+
+**Hierarchical neural integration of musical structure during live performance**\
+Williams\*, Iordan\*, Hasson, Cassano-Coleman, & Piazza\
+<span style="color:#9B59B6">**Talk**</span> at *Annual Meeting of the Society for Music Perception & Cognition (SMPC 2026)*
+
+**Narrative summarization reflects underlying event structure in episodic memory**\
+Sun & Iordan\
+Poster at *Context and Episodic Memory Symposium (CEMS 2026)*
+
+**Expertise facilitates event perception and memory recall for naturalistic narratives**\
+Meulbroek & Iordan\
+Poster at *Context and Episodic Memory Symposium (CEMS 2026)*
+
 ## 2025
 
 **Narrative Summarization Reflects Underlying Event Structure in Episodic Memory**\
