@@ -22,7 +22,7 @@ permalink: /people/
              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Center for Visual Science<br/>
              &nbsp; Affiliated Faculty, Goergen Institute for Data Science and AI & <br/>
 			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Del Monte Institute for Neuroscience<br/>
-             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2026.02.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em>
+             &nbsp; <em>cora (at) rochester.edu &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="{{ site.baseurl }}/assets/pdf/Iordan.CV.2026.10.pdf">CV</a>  &nbsp;&nbsp; &#9830; &nbsp;&nbsp; <a href="https://bsky.app/profile/coralineiordan.bsky.social">@coralineiordan.bsky.social</a></em>
         </div></div>
 
 </td></tr></table>
@@ -52,8 +52,9 @@ When she's not in the lab, Cora enjoys watching Sci-Fi shows in search of new st
              &nbsp; Ph.D. candidate, Brain and Cognitive Sciences<br/>
 	         &nbsp; Donald M. and Janet C. Barnard Fellow (2025-2026)<br/>
       	     &nbsp; <br/>
-	         &nbsp; <em>csun28 (at) ur.rochester.edu</em><br/>
-             &nbsp; <font color="DarkGray"><em>AI amalgamation trying to understand humans</em></font>
+			 &nbsp; <br/>
+	         &nbsp; <em>csun28 (at) ur.rochester.edu</em>
+             <!--&nbsp; <font color="DarkGray"><em>AI amalgamation trying to understand humans</em></font>-->
         </div></div>
 
 </td></tr></table>
@@ -75,9 +76,11 @@ Claire's research focuses on the neural and behavioral mechanisms of information
              &nbsp; <span style="font-size:16pt;"><strong>Alex</strong></span> &nbsp;&nbsp;&nbsp;<em>they/them, she/her</em><br/>
              &nbsp; <strong>Alex Ye, M.A., M.A.</strong><br/>
              &nbsp; Ph.D. student, Brain and Cognitive Sciences<br/>
-             &nbsp; <br/><br/>
-             &nbsp; <em>xye13 (at) ur.rochester.edu</em><br/>
-             &nbsp; <font color="DarkGray"><em>Publishes fanvids on Bilibili, some of which have 40k+ views.</em></font>
+             &nbsp; <br/>
+			 &nbsp; <br/>
+			 &nbsp; <br/>
+             &nbsp; <em>xye13 (at) ur.rochester.edu</em>
+             <!--&nbsp; <font color="DarkGray"><em>Publishes fanvids on Bilibili, some of which have 40k+ views.</em></font>-->
         </div></div>
 
 </td></tr></table>
@@ -94,22 +97,22 @@ Alex’s research focuses on the factors that contribute to how people generate 
 <tr><td width="100%" valign="top" style="padding-right: 25px;">
 
         <div class="entry">
-        <img src="{{ site.baseurl }}/assets/img/vandita2.jpg" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
+        <img src="{{ site.baseurl }}/assets/img/sonia1.jpg" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
         <div class="main">
-             &nbsp; <span style="font-size:16pt;"><strong>Vandita</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
-             &nbsp; <strong>Vandita Soni</strong><br/>
-             &nbsp; Major: Brain and Cognitive Sciences (Computing & AI)<br/>
-	         &nbsp; Wiesman Fellow (2025)<br/>
+             &nbsp; <span style="font-size:16pt;"><strong>Sonia</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
+             &nbsp; <strong>Sonia Chun</strong><br/>
+             &nbsp; Majors: Brain and Cognitive Sciences (Neurobiology) & Psychology<br/>
+	         &nbsp; Bilski-Mayer Fellow (2026)
 	         &nbsp; <br/>
-	         &nbsp; <em> vsoni3 (at) u.rochester.edu</em><br/>
-             &nbsp; 
+			 &nbsp; <br/>
+	         &nbsp; <em> schun8 (at) u.rochester.edu</em><br/>
         </div></div>
 
 </td></tr></table>
 
 <div style="text-align: justify">
 	
-Vandita is interested in the role of priming in narrative comprehension and recall. She is a fourth-year student at the University of Rochester. Outside the lab, Vandita enjoys snowboarding, ceramics and cooking.
+Sonia is interested in the mechanisms of episodic & semantic memory and the role of emotion in naturalistic perception. She is a third-year student at the University of Rochester. Outside the lab, Sonia enjoys spinning yarn, cooking Korean food, and working with animals.
 
 <br/><br/><br/>
 
@@ -119,27 +122,51 @@ Vandita is interested in the role of priming in narrative comprehension and reca
 <tr><td width="100%" valign="top" style="padding-right: 25px;">
 
         <div class="entry">
-        <img src="{{ site.baseurl }}/assets/img/sonia1.jpg" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
+        <img src="{{ site.baseurl }}/assets/img/rama1.png" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
         <div class="main">
-             &nbsp; <span style="font-size:16pt;"><strong>Sonia</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
-             &nbsp; <strong>Sonia Chun</strong><br/>
-             &nbsp; Majors: Brain and Cognitive Sciences (Neurobiology) & Psychology<br/>
+             &nbsp; <span style="font-size:16pt;"><strong>Rama</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
+             &nbsp; <strong>Rama Awad</strong><br/>
+             &nbsp; Majors: Neuroscience & Computer Science<br/>
+	         &nbsp; University of Rochester Davis Scholar (2024-2027)
 	         &nbsp; <br/>
-	         &nbsp; <br/>
-	         &nbsp; <em> schun8 (at) u.rochester.edu</em><br/>
-             &nbsp; 
+			 &nbsp; <br/>
+	         &nbsp; <em> rawad2 (at) u.rochester.edu</em><br/>
         </div></div>
 
 </td></tr></table>
 
 <div style="text-align: justify">
 	
-Sonia is interested in the mechanisms of episodic & semantic memory and the role of emotion in naturalistic perception. She is a third-year student at the University of Rochester. Outside the lab, Sonia enjoys spinning yarn, cooking Korean food, and working with animals.
+Rama is interested in the role of priming in narrative comprehension and recall. She is a fourth-year student at the University of Rochester. Outside the lab, Rama enjoys reading, art museums, and cooking.
 
 </div>
+
+<!--<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td width="100%" valign="top" style="padding-right: 25px;">
+
+        <div class="entry">
+        <img src="{{ site.baseurl }}/assets/img/kristel1.png" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
+        <div class="main">
+             &nbsp; <span style="font-size:16pt;"><strong>Rama</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
+             &nbsp; <strong>Rama Awad</strong><br/>
+             &nbsp; Majors: Computer Science, Brain and Cognitive Sciences, & Spanish<br/>
+	         &nbsp; Patrick P. Lee Foundation Computer Science Scholar (2026-2027)
+	         &nbsp; <br/>
+			 &nbsp; <br/>
+	         &nbsp; <em> kalfarob (at) u.rochester.edu</em><br/>
+        </div></div>
+
+</td></tr></table>
+
+<div style="text-align: justify">
+	
+Kristel is interested in how experience and expertise influence event segmentation and memory recall. She is a fourth-year student at the University of Rochester.
+
+</div>-->
 
 ## Lab Alumni
 
 Aishwarya Jayan, M.S., Neuroscience, <em>Center for Visual Science NEI T32 Fellow (2025-2026)</em><br/>
+Vandita Soni, RA, Brain and Cognitive Sciences, <em>Wiesman Fellow (2025-2026), CVS Makous Prize (2026)</em><br/>
 Odessa Meulbroek, RA, Brain and Cognitive Sciences, <em>Meliora Fellow (2024), Schwarz Discover Fellow (2025)</em><br/>
 Xiomara Ortiz Lopez, RA, Brain and Cognitive Sciences, <em>Ronald E. McNair Fellow (2023-2025)</em>
