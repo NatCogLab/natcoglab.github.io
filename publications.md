@@ -11,7 +11,7 @@ permalink: /publications/
 ## Preprints
 
 **Hierarchical neural integration of musical structure during expert performance**\
-Williams*, Iordan*, Cassano-Coleman, & Piazza\
+Williams\*, Iordan\*, Cassano-Coleman, & Piazza\
 [*bioRxiv (2026)*](https://www.biorxiv.org/content/10.64898/2026.07.20.738980v1.abstract) (*shared first author)
 
 **Expertise Shapes the Multidimensional Perception of Stories**\
