@@ -130,6 +130,7 @@ Sonia is interested in the mechanisms of episodic & semantic memory and the role
 	         &nbsp; University of Rochester Davis Scholar (2024-2027)
 	         &nbsp; <br/>
 			 &nbsp; <br/>
+			 &nbsp; <br/>
 	         &nbsp; <em> rawad2 (at) u.rochester.edu</em><br/>
         </div></div>
 
