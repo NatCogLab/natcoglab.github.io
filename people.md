@@ -105,14 +105,15 @@ Alex’s research focuses on the factors that contribute to how people generate 
 	         &nbsp; Bilski-Mayer Fellow (2026)
 	         &nbsp; <br/>
 			 &nbsp; <br/>
-	         &nbsp; <em> schun8 (at) u.rochester.edu</em><br/>
+			 &nbsp; <br/>
+	         &nbsp; <em> schun8 (at) u.rochester.edu</em>
         </div></div>
 
 </td></tr></table>
 
 <div style="text-align: justify">
 	
-Sonia is interested in the mechanisms of episodic & semantic memory and the role of emotion in naturalistic perception. She is a third-year student at the University of Rochester. Outside the lab, Sonia enjoys spinning yarn, cooking Korean food, and working with animals.
+Sonia is interested in the mechanisms of episodic & semantic memory and the role of emotion in naturalistic perception. She is a fourth-year student at the University of Rochester. Outside the lab, Sonia enjoys spinning yarn, cooking Korean food, and working with animals.
 
 <br/><br/><br/>
 
@@ -131,7 +132,7 @@ Sonia is interested in the mechanisms of episodic & semantic memory and the role
 	         &nbsp; <br/>
 			 &nbsp; <br/>
 			 &nbsp; <br/>
-	         &nbsp; <em> rawad2 (at) u.rochester.edu</em><br/>
+	         &nbsp; <em> rawad2 (at) u.rochester.edu</em>
         </div></div>
 
 </td></tr></table>
