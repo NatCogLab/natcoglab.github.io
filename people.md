@@ -170,5 +170,6 @@ Kristel is interested in how experience and expertise influence event segmentati
 
 Aishwarya Jayan, M.S., Neuroscience, <em>Center for Visual Science NEI T32 Fellow (2025-2026)</em><br/>
 Vandita Soni, RA, Brain and Cognitive Sciences, <em>Wiesman Fellow (2025-2026), CVS Makous Prize (2026)</em><br/>
+Alexandra Reyda, RA, Brain and Cognitive Sciences<br/>
 Odessa Meulbroek, RA, Brain and Cognitive Sciences, <em>Meliora Fellow (2024), Schwarz Discover Fellow (2025)</em><br/>
 Xiomara Ortiz Lopez, RA, Brain and Cognitive Sciences, <em>Ronald E. McNair Fellow (2023-2025)</em>
