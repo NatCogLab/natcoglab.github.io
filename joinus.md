@@ -22,14 +22,14 @@ permalink: /joinus/
 
 <div style="text-align: justify">
 
-Interested candidates should submit their <a href="https://www.sas.rochester.edu/bcs/graduate/admission.html">online application</a> to the Brain and Cognitive Sciences Department and select Dr. Iordan as a faculty member they are interested in working with in the application form.<br/><br/>
-
 We are looking for Ph.D. candidates with research experience in at least two of the following:
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9830; &nbsp;&nbsp; cognitive neuroscience (esp. memory, attention, and/or visual cognition)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9830; &nbsp;&nbsp; fMRI / real-time fMRI
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9830; &nbsp;&nbsp; computational analysis techniques / modeling (incl. classical machine learning)
 <!--<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9830; &nbsp;&nbsp; neural network design / applications-->
 <br/><br/>
+
+Interested candidates should submit their <a href="https://www.sas.rochester.edu/bcs/graduate/admission.html">online application</a> to the Brain and Cognitive Sciences Department and select Dr. Iordan as a faculty member they are interested in working with in the application form.
 
 <!--<font color="1E90FF"><strong>not actively recruiting graduate students</strong></font>.<br/><br/>-->
 <!--https://www.sas.rochester.edu/bcs/graduate/admission.html-->
