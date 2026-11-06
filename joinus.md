@@ -18,7 +18,7 @@ permalink: /joinus/
 <!--Our lab is currently <font color="1E90FF"><strong>not actively recruiting graduate students</strong></font>.<br/><br/>-->
 <!--[online application](https://www.sas.rochester.edu/bcs/graduate/admission.html)-->
 
-<font color="1E90FF"><strong>Our lab is recruiting a Ph.D. student for Fall 2027 admission cycle.</strong></font><br/>
+Our lab is <font color="1E90FF"><strong>recruiting a Ph.D. student for Fall 2027 admission cycle</strong></font>.<br/>
 
 <div style="text-align: justify">
 
