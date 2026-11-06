@@ -17,7 +17,9 @@ permalink: /joinus/
 
 <!--Our lab is currently <font color="1E90FF"><strong>not actively recruiting graduate students</strong></font>.<br/><br/>-->
 
-<font color="1E90FF"><strong>Our lab is recruiting a Ph.D. student for Fall 2027 admission cycle</strong></font>. Interested candidates should submit their [online application](https://www.sas.rochester.edu/bcs/graduate/admission.html) to the Brain and Cognitive Sciences Department and select Dr. Iordan as a faculty member they are interested in working with in the application form.
+<font color="1E90FF"><strong>Our lab is recruiting a Ph.D. student for Fall 2027 admission cycle.</strong></font>.<br/><br/>
+
+Interested candidates should submit their [online application](https://www.sas.rochester.edu/bcs/graduate/admission.html) to the Brain and Cognitive Sciences Department and select Dr. Iordan as a faculty member they are interested in working with in the application form.<br/><br/>
 
 <div style="text-align: justify">
 
