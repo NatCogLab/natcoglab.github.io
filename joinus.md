@@ -17,14 +17,13 @@ permalink: /joinus/
 
 <!--Our lab is currently <font color="1E90FF"><strong>not actively recruiting graduate students</strong></font>.<br/><br/>-->
 
-<font color="1E90FF"><strong>Our lab is recruiting a Ph.D. student for Fall 2027 admission cycle.</strong></font>.<br/><br/>
-
-Interested candidates should submit their [online application](https://www.sas.rochester.edu/bcs/graduate/admission.html) to the Brain and Cognitive Sciences Department and select Dr. Iordan as a faculty member they are interested in working with in the application form.<br/><br/>
+<font color="1E90FF"><strong>Our lab is recruiting a Ph.D. student for Fall 2027 admission cycle.</strong></font><br/>
 
 <div style="text-align: justify">
 
+Interested candidates should submit their [online application](https://www.sas.rochester.edu/bcs/graduate/admission.html) to the Brain and Cognitive Sciences Department and select Dr. Iordan as a faculty member they are interested in working with in the application form.<br/><br/>
+
 We are looking for Ph.D. candidates with research experience in at least two of the following:
-<br/>
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9830; &nbsp;&nbsp; cognitive neuroscience (esp. memory, attention, and/or visual cognition)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9830; &nbsp;&nbsp; fMRI / real-time fMRI
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9830; &nbsp;&nbsp; computational analysis techniques / modeling (incl. classical machine learning)
@@ -39,12 +38,11 @@ We are looking for Ph.D. candidates with research experience in at least two of 
 
 ## Postdocs
 
-Our lab is currently <font color="1E90FF"><strong>not actively recruiting postdocs</strong></font>.<br/><br/>
+Our lab is currently <font color="1E90FF"><strong>not actively recruiting postdocs</strong></font>.<br/>
 
 <div style="text-align: justify">
 
 We are looking for postdoc candidates with a strong background in at least three of the following:
-<br/>
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9830; &nbsp;&nbsp; cognitive neuroscience (esp. memory, attention, and/or visual cognition)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9830; &nbsp;&nbsp; fMRI	/ real-time fMRI
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9830; &nbsp;&nbsp; computational analysis / modeling (incl. classical machine learning)
