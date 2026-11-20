@@ -141,18 +141,20 @@ Sonia is interested in the mechanisms of episodic & semantic memory and the role
 	
 Rama is interested in the role of priming in narrative comprehension and recall. She is a fourth-year student at the University of Rochester. Outside the lab, Rama enjoys reading, art museums, and cooking.
 
+<br/><br/><br/>
+
 </div>
 
-<!--<table width="100%" cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr><td width="100%" valign="top" style="padding-right: 25px;">
 
         <div class="entry">
-        <img src="{{ site.baseurl }}/assets/img/kristel1.png" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
+        <img src="{{ site.baseurl }}/assets/img/Kristel1.png" class="image img-rounded" width="200px" border="0" style="border-radius:50%"/>
         <div class="main">
-             &nbsp; <span style="font-size:16pt;"><strong>Rama</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
-             &nbsp; <strong>Rama Awad</strong><br/>
-             &nbsp; Majors: Computer Science, Brain and Cognitive Sciences, & Spanish<br/>
-	         &nbsp; Patrick P. Lee Foundation Computer Science Scholar (2026-2027)
+             &nbsp; <span style="font-size:16pt;"><strong>Kristel</strong></span> &nbsp;&nbsp;&nbsp;<em>she/her</em><br/>
+             &nbsp; <strong>Kristel Alfaro Borbon</strong><br/>
+             &nbsp; Majors: Brain and Cognitive Sciences & Computer Science<br/>
+	         &nbsp; <br/>
 	         &nbsp; <br/>
 			 &nbsp; <br/>
 	         &nbsp; <em> kalfarob (at) u.rochester.edu</em><br/>
@@ -162,9 +164,9 @@ Rama is interested in the role of priming in narrative comprehension and recall.
 
 <div style="text-align: justify">
 	
-Kristel is interested in how experience and expertise influence event segmentation and memory recall. She is a fourth-year student at the University of Rochester.
+Kristel’s research interests focus on cognitive control and decision-making, particularly how people navigate complex and uncertain situations. In her free time Kristel likes to do yoga, read, and play with her puppy Eloise.
 
-</div>-->
+</div>
 
 ## Lab Alumni
 
