@@ -164,7 +164,7 @@ Rama is interested in the role of priming in narrative comprehension and recall.
 
 <div style="text-align: justify">
 	
-Kristel’s research interests focus on cognitive control and decision-making, particularly how people navigate complex and uncertain situations. In her free time Kristel likes to do yoga, read, and play with her puppy Eloise.
+Kristel’s research interests focus on cognitive control and decision-making, particularly how people navigate complex and uncertain situations. In her free time, Kristel likes to do yoga, read, and play with her puppy, Eloise.
 
 </div>
 
